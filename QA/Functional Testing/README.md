@@ -51,7 +51,7 @@
 - Test repositories
 	- Testlink, Testrails, Qtest, Zephyr
 - Create simple test cases
-- Uso de Developer tools for testing (to report issue clearer and easy for the developer to fix)
+- Use Developer tools provided by the browser for testing
 - Basic knowledge Security Information
 - Networking
 
