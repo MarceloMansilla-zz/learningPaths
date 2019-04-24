@@ -53,7 +53,6 @@
 - Create simple test cases
 - Uso de Developer tools for testing (to report issue clearer and easy for the developer to fix)
 - Basic knowledge Security Information
-- Basic Scripting
 - Networking
 
 # Engineer 3
@@ -75,8 +74,7 @@
 - Create complex test cases
 - Testing performace (Jmeter)
 - Basic/Intermediate knowledge Postman
-- Intermediate Scripting
-- Intermediate knowledge commands related to Linux/Windows and Security Information (scanning, pentesting, etc) //to consider coaching to do it better
+- Intermediate knowledge commands related to Linux/Windows and Security Information (scanning, pentesting, etc)
 
 # Senior (A and B)
 
@@ -95,7 +93,6 @@
 - Test Plan Design
 - Analisys and design of risk plan
 - Advance knowledge Postman and commands related to Linux/Windows (log file)
-- Advance Scripting
 - Basic automation testing
 
 # Senior C
